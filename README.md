@@ -1,9 +1,7 @@
 # MicrosoftAzure-VM-
-Implantando uma Máquina Virtual no Microsoft Azure
 
 
 🚀 Como Criar uma Máquina Virtual no Microsoft Azure
-Este guia passo a passo explica como criar uma máquina virtual (VM) no Microsoft Azure.
 
 🧰 Pré-requisitos
 Conta no Microsoft Azure
