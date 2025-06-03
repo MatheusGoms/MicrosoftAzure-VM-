@@ -68,8 +68,6 @@ Linux: ssh usuario@ip-da-vm
 
 Windows: Conexão de Área de Trabalho Remota (RDP)
 
-✅ Resultado Esperado
-Ao final desse processo, você terá uma máquina virtual em funcionamento no Azure, pronta para receber aplicações, serviços ou scripts personalizados.
 
 🛠️ Recursos Úteis
 Documentação oficial do Azure
